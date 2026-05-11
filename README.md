@@ -173,6 +173,3 @@ python -m notebook
 | Key storage | Large plaintext keys | 97% compressed seeds |
 
 ---
-
-## Authors
-- Vishnupriya Cheemalamarri — VIT Chennai
